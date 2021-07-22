@@ -1,0 +1,50 @@
+image: ruby:2.5.0
+
+services:
+  - postgres:latest
+
+variables:
+  POSTGRES_DB: test_Db
+  POSTGRES_USER: runner
+  POSTGRES_PASSWORD: ""
+
+before_script:
+  - apt-get update -qq && apt-get install -y -qq postgresql postgresql-contrib libpq-dev cmake
+  - apt-get install -y nodejs
+  - ruby -v
+  - which ruby
+  - gem install bundler --no-ri --no-rdoc
+  - bundle install --path /cache
+  - RAILS_ENV=test bundle install --jobs $(nproc)  "${FLAGS[@]}"
+
+rake:
+  script:
+    - cp config/database.yml.gitlab config/database.yml
+    - RAILS_ENV=test bundle exec rake db:create
+    - RAILS_ENV=test bundle exec rake db:migrate
+    - RAILS_ENV=test rake
+
+qa:
+  stage: deploy
+  when: manual
+  script:
+    - gem install dpl
+    - dpl --provider=heroku --app=mivi-api-qa --api-key=$heroku_api_key
+  after_script:
+    - cp config/database.yml.gitlab config/database.yml
+    - RAILS_ENV=test bundle exec rake db:create
+    - RAILS_ENV=test bundle exec rake db:migrate
+    - RAILS_ENV=test bundle exec cucumber
+
+staging:
+  stage: deploy
+  when: manual
+  script:
+    - gem install dpl
+    - dpl --provider=heroku --app=mivi-api-staging --api-key=$heroku_api_key
+  after_script:
+    - cp config/database.yml.gitlab config/database.yml
+    - RAILS_ENV=test bundle exec rake db:create
+    - RAILS_ENV=test bundle exec rake db:migrate
+    - RAILS_ENV=test bundle exec cucumber
+

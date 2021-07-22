@@ -1,0 +1,70 @@
+{
+  "Lines": [{
+    "Words": [{
+      "WordText": "Abc",
+      "Left": 63,
+      "Top": 33,
+      "Height": 72,
+      "Width": 364
+    }],
+    "MaxHeight": 72,
+    "MinTop": 33
+  }, {
+    "MaxHeight": 22,
+    "MinTop": 176
+  }, {
+    "Words": [{
+      "WordText": "21.97",
+      "Left": 474,
+      "Top": 228,
+      "Height": 21,
+      "Width": 61
+    }],
+    "MaxHeight": 21,
+    "MinTop": 228
+  }, {
+    "Words": [{
+      "WordText": "Washington",
+      "Left": 88,
+      "Top": 539,
+      "Height": 23,
+      "Width": 129
+    }, {
+      "WordText": "Recycling",
+      "Left": 400,
+      "Top": 540,
+      "Height": 24,
+      "Width": 107
+    }],
+    "MaxHeight": 24,
+    "MinTop": 539
+  }, {
+    "Words": [{
+      "WordText": "For",
+      "Left": 103,
+      "Top": 568,
+      "Height": 18,
+      "Width": 37
+    }, {
+      "WordText": "TV",
+      "Left": 441,
+      "Top": 570,
+      "Height": 18,
+      "Width": 48
+    }],
+    "MaxHeight": 23,
+    "MinTop": 568
+  }, {
+    "Words": [{
+      "WordText": "07/21/15",
+      "Left": 145,
+      "Top": 668,
+      "Height": 22,
+      "Width": 100
+    }],
+    "MaxHeight": 22,
+    "MinTop": 668
+  }],
+  "HasOverlay": true,
+  "Message": "Total lines: 22"
+}

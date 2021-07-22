@@ -1,0 +1,465 @@
+{
+	"ParsedResults" : [{
+		"TextOverlay" : {
+			"Lines" : [{
+				"Words" : [{
+					"WordText" : "Woolworths",
+					"Left" : 153.0,
+					"Top" : 124.0,
+					"Height" : 46.0,
+					"Width" : 248.0
+				}],
+				"MaxHeight" : 46.0,
+				"MinTop" : 124.0
+			}, {
+				"Words" : [{
+					"WordText" : "Ivo/",
+					"Left" : 305.0,
+					"Top" : 176.0,
+					"Height" : 31.0,
+					"Width" : 46.0
+				}, {
+					"WordText" : "people",
+					"Left" : 353.0,
+					"Top" : 181.0,
+					"Height" : 28.0,
+					"Width" : 62.0
+				}],
+				"MaxHeight" : 31.0,
+				"MinTop" : 176.0
+			}, {
+				"Words" : [{
+					"WordText" : "WOOLWORTHS",
+					"Left" : 221.0,
+					"Top" : 218.0,
+					"Height" : 20.0,
+					"Width" : 98.0
+				}],
+				"MaxHeight" : 20.0,
+				"MinTop" : 218.0
+			}, {
+				"Words" : [{
+					"WordText" : "Store",
+					"Left" : 231.0,
+					"Top" : 277.0,
+					"Height" : 19.0,
+					"Width" : 48.0
+				}, {
+					"WordText" : "Manager:",
+					"Left" : 290.0,
+					"Top" : 278.0,
+					"Height" : 23.0,
+					"Width" : 74.0
+				}, {
+					"WordText" : "Troy",
+					"Left" : 379.0,
+					"Top" : 280.0,
+					"Height" : 23.0,
+					"Width" : 38.0
+				}],
+				"MaxHeight" : 23.0,
+				"MinTop" : 277.0
+			}, {
+				"Words" : [{
+					"WordText" : "StUJ",
+					"Left" : 171.0,
+					"Top" : 305.0,
+					"Height" : 20.0,
+					"Width" : 33.0
+				}, {
+					"WordText" : "Phone",
+					"Left" : 230.0,
+					"Top" : 306.0,
+					"Height" : 20.0,
+					"Width" : 48.0
+				}, {
+					"WordText" : "Number",
+					"Left" : 289.0,
+					"Top" : 308.0,
+					"Height" : 20.0,
+					"Width" : 55.0
+				}, {
+					"WordText" : "6.318",
+					"Left" : 368.0,
+					"Top" : 310.0,
+					"Height" : 20.0,
+					"Width" : 38.0
+				}, {
+					"WordText" : "9984",
+					"Left" : 417.0,
+					"Top" : 311.0,
+					"Height" : 20.0,
+					"Width" : 38.0
+				}],
+				"MaxHeight" : 20.0,
+				"MinTop" : 305.0
+			}, {
+				"Words" : [{
+					"WordText" : "'Å110LHOk[HS",
+					"Left" : 91.0,
+					"Top" : 333.0,
+					"Height" : 21.0,
+					"Width" : 98.0
+				}, {
+					"WordText" : "TAX",
+					"Left" : 201.0,
+					"Top" : 335.0,
+					"Height" : 20.0,
+					"Width" : 27.0
+				}, {
+					"WordText" : "INVOICI",
+					"Left" : 241.0,
+					"Top" : 336.0,
+					"Height" : 21.0,
+					"Width" : 66.0
+				}, {
+					"WordText" : "ABN",
+					"Left" : 338.0,
+					"Top" : 340.0,
+					"Height" : 19.0,
+					"Width" : 28.0
+				}, {
+					"WordText" : "{38",
+					"Left" : 377.0,
+					"Top" : 340.0,
+					"Height" : 19.0,
+					"Width" : 19.0
+				}, {
+					"WordText" : "000",
+					"Left" : 407.0,
+					"Top" : 341.0,
+					"Height" : 19.0,
+					"Width" : 28.0
+				}, {
+					"WordText" : "014",
+					"Left" : 446.0,
+					"Top" : 341.0,
+					"Height" : 20.0,
+					"Width" : 28.0
+				}, {
+					"WordText" : "675",
+					"Left" : 486.0,
+					"Top" : 342.0,
+					"Height" : 19.0,
+					"Width" : 27.0
+				}],
+				"MaxHeight" : 21.0,
+				"MinTop" : 333.0
+			}, {
+				"Words" : [{
+					"WordText" : "IMPRESSED",
+					"Left" : 43.0,
+					"Top" : 390.0,
+					"Height" : 21.0,
+					"Width" : 86.0
+				}, {
+					"WordText" : "SUNNY",
+					"Left" : 140.0,
+					"Top" : 392.0,
+					"Height" : 20.0,
+					"Width" : 48.0
+				}, {
+					"WordText" : "SIDE",
+					"Left" : 199.0,
+					"Top" : 394.0,
+					"Height" : 19.0,
+					"Width" : 37.0
+				}, {
+					"WordText" : "UP",
+					"Left" : 249.0,
+					"Top" : 395.0,
+					"Height" : 18.0,
+					"Width" : 18.0
+				}, {
+					"WordText" : "IL",
+					"Left" : 281.0,
+					"Top" : 395.0,
+					"Height" : 19.0,
+					"Width" : 15.0
+				}],
+				"MaxHeight" : 21.0,
+				"MinTop" : 390.0
+			}, {
+				"Words" : [{
+					"WordText" : "6.00",
+					"Left" : 534.0,
+					"Top" : 401.0,
+					"Height" : 19.0,
+					"Width" : 37.0
+				}],
+				"MaxHeight" : 19.0,
+				"MinTop" : 401.0
+			}, {
+				"Words" : [{
+					"WordText" : "1",
+					"Left" : 43.0,
+					"Top" : 419.0,
+					"Height" : 20.0,
+					"Width" : 7.0
+				}, {
+					"WordText" : "SUBTOTAL",
+					"Left" : 91.0,
+					"Top" : 421.0,
+					"Height" : 21.0,
+					"Width" : 77.0
+				}],
+				"MaxHeight" : 21.0,
+				"MinTop" : 419.0
+			}, {
+				"Words" : [{
+					"WordText" : "WOOLWORTHS",
+					"Left" : 88.0,
+					"Top" : 509.0,
+					"Height" : 20.0,
+					"Width" : 98.0
+				}],
+				"MaxHeight" : 20.0,
+				"MinTop" : 509.0
+			}, {
+				"Words" : [{
+					"WordText" : "BELMONT",
+					"Left" : 88.0,
+					"Top" : 538.0,
+					"Height" : 20.0,
+					"Width" : 67.0
+				}],
+				"MaxHeight" : 20.0,
+				"MinTop" : 538.0
+			}, {
+				"Words" : [{
+					"WordText" : "MERCH",
+					"Left" : 69.0,
+					"Top" : 568.0,
+					"Height" : 19.0,
+					"Width" : 47.0
+				}],
+				"MaxHeight" : 19.0,
+				"MinTop" : 568.0
+			}, {
+				"Words" : [{
+					"WordText" : "ID.",
+					"Left" : 118.0,
+					"Top" : 598.0,
+					"Height" : 19.0,
+					"Width" : 23.0
+				}],
+				"MaxHeight" : 19.0,
+				"MinTop" : 598.0
+			}, {
+				"Words" : [{
+					"WordText" : "CARO:",
+					"Left" : 68.0,
+					"Top" : 626.0,
+					"Height" : 19.0,
+					"Width" : 44.0
+				}, {
+					"WordText" : ".",
+					"Left" : 118.0,
+					"Top" : 642.0,
+					"Height" : 3.0,
+					"Width" : 3.0
+				}],
+				"MaxHeight" : 19.0,
+				"MinTop" : 626.0
+			}, {
+				"Words" : [{
+					"WordText" : "4348",
+					"Left" : 246.0,
+					"Top" : 512.0,
+					"Height" : 19.0,
+					"Width" : 38.0
+				}],
+				"MaxHeight" : 19.0,
+				"MinTop" : 512.0
+			}, {
+				"Words" : [{
+					"WordText" : ".0å53",
+					"Left" : 236.0,
+					"Top" : 629.0,
+					"Height" : 19.0,
+					"Width" : 46.0
+				}, {
+					"WordText" : "1",
+					"Left" : 294.0,
+					"Top" : 631.0,
+					"Height" : 19.0,
+					"Width" : 8.0
+				}],
+				"MaxHeight" : 19.0,
+				"MinTop" : 629.0
+			}, {
+				"Words" : [{
+					"WordText" : "Bankwest",
+					"Left" : 67.0,
+					"Top" : 655.0,
+					"Height" : 21.0,
+					"Width" : 76.0
+				}, {
+					"WordText" : "Credit",
+					"Left" : 155.0,
+					"Top" : 656.0,
+					"Height" : 21.0,
+					"Width" : 57.0
+				}, {
+					"WordText" : "CREI)II",
+					"Left" : 243.0,
+					"Top" : 659.0,
+					"Height" : 20.0,
+					"Width" : 57.0
+				}],
+				"MaxHeight" : 21.0,
+				"MinTop" : 655.0
+			}, {
+				"Words" : [{
+					"WordText" : "AOOOOOIj004",
+					"Left" : 164.0,
+					"Top" : 688.0,
+					"Height" : 20.0,
+					"Width" : 96.0
+				}, {
+					"WordText" : "1010",
+					"Left" : 265.0,
+					"Top" : 689.0,
+					"Height" : 19.0,
+					"Width" : 35.0
+				}],
+				"MaxHeight" : 20.0,
+				"MinTop" : 688.0
+			}, {
+				"Words" : [{
+					"WordText" : "IVR",
+					"Left" : 66.0,
+					"Top" : 744.0,
+					"Height" : 19.0,
+					"Width" : 27.0
+				}],
+				"MaxHeight" : 19.0,
+				"MinTop" : 744.0
+			}, {
+				"Words" : [{
+					"WordText" : "PURCHASE",
+					"Left" : 65.0,
+					"Top" : 772.0,
+					"Height" : 22.0,
+					"Width" : 76.0
+				}],
+				"MaxHeight" : 22.0,
+				"MinTop" : 772.0
+			}, {
+				"Words" : [{
+					"WordText" : "TOTAL",
+					"Left" : 64.0,
+					"Top" : 831.0,
+					"Height" : 20.0,
+					"Width" : 46.0
+				}],
+				"MaxHeight" : 20.0,
+				"MinTop" : 831.0
+			}, {
+				"Words" : [{
+					"WordText" : "APPROVED",
+					"Left" : 63.0,
+					"Top" : 861.0,
+					"Height" : 20.0,
+					"Width" : 77.0
+				}],
+				"MaxHeight" : 20.0,
+				"MinTop" : 861.0
+			}, {
+				"Words" : [{
+					"WordText" : "06/02/18",
+					"Left" : 63.0,
+					"Top" : 890.0,
+					"Height" : 21.0,
+					"Width" : 76.0
+				}],
+				"MaxHeight" : 21.0,
+				"MinTop" : 890.0
+			}, {
+				"Words" : [{
+					"WordText" : "CHANGE",
+					"Left" : 61.0,
+					"Top" : 1007.0,
+					"Height" : 20.0,
+					"Width" : 57.0
+				}],
+				"MaxHeight" : 20.0,
+				"MinTop" : 1007.0
+			}, {
+				"Words" : [{
+					"WordText" : "0000000000",
+					"Left" : 202.0,
+					"Top" : 746.0,
+					"Height" : 21.0,
+					"Width" : 97.0
+				}],
+				"MaxHeight" : 21.0,
+				"MinTop" : 746.0
+			}, {
+				"Words" : [{
+					"WordText" : "$6.00",
+					"Left" : 250.0,
+					"Top" : 835.0,
+					"Height" : 22.0,
+					"Width" : 47.0
+				}],
+				"MaxHeight" : 22.0,
+				"MinTop" : 835.0
+			}, {
+				"Words" : [{
+					"WordText" : "00",
+					"Left" : 279.0,
+					"Top" : 865.0,
+					"Height" : 19.0,
+					"Width" : 18.0
+				}],
+				"MaxHeight" : 19.0,
+				"MinTop" : 865.0
+			}, {
+				"Words" : [{
+					"WordText" : "000224",
+					"Left" : 239.0,
+					"Top" : 894.0,
+					"Height" : 21.0,
+					"Width" : 57.0
+				}],
+				"MaxHeight" : 21.0,
+				"MinTop" : 894.0
+			}, {
+				"Words" : [{
+					"WordText" : "$6.00",
+					"Left" : 513.0,
+					"Top" : 959.0,
+					"Height" : 22.0,
+					"Width" : 49.0
+				}],
+				"MaxHeight" : 22.0,
+				"MinTop" : 959.0
+			}, {
+				"Words" : [{
+					"WordText" : "$6.00",
+					"Left" : 513.0,
+					"Top" : 987.0,
+					"Height" : 22.0,
+					"Width" : 48.0
+				}],
+				"MaxHeight" : 22.0,
+				"MinTop" : 987.0
+			}, {
+				"Words" : [{
+					"WordText" : "$0.00",
+					"Left" : 512.0,
+					"Top" : 1017.0,
+					"Height" : 21.0,
+					"Width" : 48.0
+				}],
+				"MaxHeight" : 21.0,
+				"MinTop" : 1017.0
+			}], "HasOverlay" : true, "Message" : "Total lines: 31"
+		},
+		"FileParseExitCode":1,
+		"ParsedText" : "Woolworths \r\nIvo/ people \r\nWOOLWORTHS \r\nStore Manager: Troy \r\nStUJ Phone Number 6.318 9984 \r\n'Å110LHOk[HS TAX INVOICI ABN {38 000 014 675 \r\nIMPRESSED SUNNY SIDE UP IL \r\n6.00 \r\n1 SUBTOTAL \r\nWOOLWORTHS \r\nBELMONT \r\nMERCH \r\nID. \r\nCARO: . \r\n4348 \r\n.0å53 1 \r\nBankwest Credit CREI)II \r\nAOOOOOIj004 1010 \r\nIVR \r\nPURCHASE \r\nTOTAL \r\nAPPROVED \r\n06/02/18 \r\nCHANGE \r\n0000000000 \r\n$6.00 \r\n00 \r\n000224 \r\n$6.00 \r\n$6.00 \r\n$0.00 \r\n",
+		"ErrorMessage" : "",
+		"ErrorDetails" : ""
+	}], "OCRExitCode" : 1, "IsErroredOnProcessing" : false, "ErrorMessage" : nil, "ErrorDetails" : nil, "ProcessingTimeInMilliseconds" : "3470", "SearchablePDFURL" : "Searchable PDF not generated as it was not requested."
+}

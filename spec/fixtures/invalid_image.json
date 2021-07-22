@@ -1,0 +1,11 @@
+{
+	"ParsedResults" : [{
+		"TextOverlay" : {
+			"Lines" : [], "HasOverlay" : false, "Message" : "No lines found"
+		},
+		"FileParseExitCode" : 1,
+		"ParsedText" : "",
+		"ErrorMessage" : "",
+		"ErrorDetails" : ""
+	}], "OCRExitCode" : 1, "IsErroredOnProcessing" : false, "ErrorMessage" : nil, "ErrorDetails" : nil, "ProcessingTimeInMilliseconds" : "6233", "SearchablePDFURL" : "Searchable PDF not generated as it was not requested."
+}

@@ -1,0 +1,9 @@
+{
+  "ParsedResults": "",
+  "OCRExitCode": 3,
+  "IsErroredOnProcessing": true,
+  "ErrorMessage": ["File failed validation. File size exceeds the maximum size limit. Maximum size limit 1024 KB"],
+  "ErrorDetails": "",
+  "ProcessingTimeInMilliseconds": "1009",
+  "SearchablePDFURL": "nil"
+}

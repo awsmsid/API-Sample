@@ -1,0 +1,1 @@
+worker: bundle exec shoryuken -R -C config/shoryuken.yml

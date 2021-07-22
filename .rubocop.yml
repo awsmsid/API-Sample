@@ -1,0 +1,47 @@
+require: rubocop-rspec
+
+Metrics/LineLength:
+  Max: 95
+Style/Documentation:
+  Enabled: false
+Metrics/MethodLength:
+  Enabled: false
+Metrics/AbcSize:
+  Enabled: false
+Naming/FileName:
+  Exclude:
+    - 'Gemfile'
+Metrics/BlockLength:
+  Exclude:
+    - 'spec/**/*'
+    - 'lib/tasks/cucumber.rake'
+Rails/DynamicFindBy:
+  Enabled: false
+RSpec/InstanceVariable:
+  Exclude:
+    - 'spec/integration/**/*'
+RSpec/DescribeClass:
+  Exclude:
+    - 'spec/integration/**/*'
+Metrics/LineLength:
+  Max: 100
+
+Metrics/BlockLength:
+  Exclude:
+    - config/**/*
+    - spec/**/*
+
+Lint/AmbiguousBlockAssociation:
+  Exclude:
+    - spec/**/*
+
+Style/Documentation:
+  Enabled: false
+
+# Rails exceptions
+AllCops:
+  Exclude:
+    - 'db/**/*'
+    - 'config/**/*'
+    - 'script/**/*'
+    - 'bin/**/*'
